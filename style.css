@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url( 'https://fonts.googleapis.com/css2?family=Lemon&display=swap');
+
+.root{
+    --laranja-claro: #FF862A; /*define uma variavel css para cor laranja*/
+}
+
+body{
+    font-size: 16px; /*define o tamanho da base*/
+    font-family: 'montserrat'; /*definir o tamanho da fonte principal do site*/
+}
+ 
+/*estilo do cabeçalho*/
+
+header{}
